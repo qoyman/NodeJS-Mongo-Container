@@ -1,5 +1,4 @@
-## demo app - for docker-compose crash course
-
+## demo app - NodeJS-Mongo-Container
 
 ### With Docker
 
